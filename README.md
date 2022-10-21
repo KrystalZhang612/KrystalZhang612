@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/StackOverflow-deepyellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Bitbucket-darkgreen?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
