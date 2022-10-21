@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/WordPress-purple?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/SourceForge-orange?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge Badge"/>
+    <img src="https://img.shields.io/badge/SourceForge-darkorange?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge Badge"/>
   </a>
 </div>
