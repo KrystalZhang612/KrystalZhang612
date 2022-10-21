@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/CV/Resume-deepgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
