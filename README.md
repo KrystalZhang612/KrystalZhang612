@@ -15,9 +15,6 @@
     <img src="https://img.shields.io/badge/StackOverflow-brown?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Bitbucket-darkgreen?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
-  </a>
-  <a href="">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
