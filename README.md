@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/WordPress-deeppink?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
 </div>
-<center> 
 <div id = "badges">
     <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats)
