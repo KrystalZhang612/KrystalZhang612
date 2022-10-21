@@ -22,5 +22,5 @@
   </a>
 </div>
 <div id = "badges">
-    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/ align="center">
+    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/ align="middle">
 </div>
