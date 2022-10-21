@@ -23,7 +23,4 @@
   <a href="">
     <img src="https://img.shields.io/badge/WordPress-deeppink?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/SourceForge-darkorange?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge Badge"/>
-  </a>
 </div>
