@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Bitbucket-darkgreen?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Leetcode-lightred?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/WordPress-purple?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
