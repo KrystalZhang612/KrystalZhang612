@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/badge/WordPress-deeppink?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
 </div>
+
+<div id = "badges">
+    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/>
+</div>
