@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/WordPress-pink?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+    <img src="https://img.shields.io/badge/WordPress-purple?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
 </div>
