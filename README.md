@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-brown?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/WordPress-deeppink?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
