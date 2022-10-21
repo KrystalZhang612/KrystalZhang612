@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/CV/Resume-black?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
+    <img src="https://img.shields.io/badge/CV/Resume-green?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
