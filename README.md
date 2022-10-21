@@ -23,7 +23,13 @@
 </div>
 <br/>
 <div id = "badges">
+  <a>
     <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/>
+  </a>
+  <a>
+    <https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
