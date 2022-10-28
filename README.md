@@ -1,3 +1,4 @@
+# This is Krystal Zhang. I am a Software Developer. 
 <div id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
