@@ -25,7 +25,7 @@
 <br/>
 <div id = "badges">
   <a>
-    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt="ViewCount"/>
   </a>
 </div>
 
@@ -38,6 +38,8 @@
   <img src = "https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" title = "Python" alt ="Python" width = "97" height ="30"/> 
   <img src = "https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074" title = "JavaScript" alt = "JavaScript" width = "116" height ="30"/>
   <img src ="https://camo.githubusercontent.com/6424c761a99e4d5a5dba0f726fd292a299dc8e695868dce735863ddd6ec753f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303f266c6f676f3d5265616374" title = "React" alt = "React" width = "89" height ="30"/>
+  <img src ="https://camo.githubusercontent.com/9b9d1d1eef799186c22da2670367dc1b084688c96648aefb35318c67dda4ca20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3030303f266c6f676f3d446a616e676f" title = "Django" alt = "Django" width = "94" height ="30"/>
+  
   
 </div>
 
