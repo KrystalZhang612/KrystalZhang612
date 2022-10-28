@@ -32,4 +32,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## SkillSet
+## 🛠️ SkillSet
+<div>
+  <img src = "https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e" title = "Python" alt ="Python" width = "194" height ="60"/>&nbsp; 
+</div>
+
