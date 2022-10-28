@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Leetcode-deeppink?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
