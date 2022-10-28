@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
