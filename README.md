@@ -1,6 +1,6 @@
 # ☕ Hey! This is Krystal Zhang. I am a Software Developer. 
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/krystal-zhang-242882242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/KrystalZhang612">
