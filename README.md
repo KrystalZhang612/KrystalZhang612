@@ -31,7 +31,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
 [![Krystal's github stats](https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark)](https://github.com/KrystalZhang612)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=fill&theme=vision-friendly-dark)](https://github.com/KrystalZhang612)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark)](https://github.com/KrystalZhang612)
 
 ## 🛠️ SkillSet
 <div>
