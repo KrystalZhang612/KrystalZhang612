@@ -35,7 +35,7 @@
 </div> 
 <br/>
 <div>
-  <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats"/>&nbsp; 
+  <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats"/>&nbsp; 
 </div>
 
             
