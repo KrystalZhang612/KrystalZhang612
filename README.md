@@ -43,6 +43,8 @@
 </div>
 
 
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=KrystalZhang612&repos=KrystalZhang-RepliFlix&theme=dracula)
+
 
 
 ## 🛠️ SkillSet
