@@ -31,7 +31,7 @@
 
 
 <div>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width ="290.588" height = "112.353"/>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak">
 </div> 
             
             
