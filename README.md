@@ -29,7 +29,13 @@
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+
+<div>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width ="290.588" height = "112.353"/>
+</div> 
+            
+            
+            
 [![Krystal's github stats](https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark)](https://github.com/KrystalZhang612)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark)](https://github.com/KrystalZhang612)
 
