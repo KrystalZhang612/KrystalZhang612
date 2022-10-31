@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=apple-developer&logoColor=white" alt="Apple Developer Badge"/>
   </a>
 </div>
 <br/>
