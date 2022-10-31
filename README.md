@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/AppleDeveloper-deepgrey?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Developer Badge"/>
+    <img src="https://img.shields.io/badge/AppleDeveloper-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Developer Badge"/>
   </a>
 </div>
 <br/>
