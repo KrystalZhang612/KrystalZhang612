@@ -38,16 +38,16 @@
 <div>
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "440" height="194"/>&nbsp;
   <a href="">
-    <img src="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/resume%20logo.png" title ="RESUME/CV" alt = "RESUME/CV" width = "80" height = "80"/>
+    <img src="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/resume%20logo.png" title ="RESUME/CV" alt = "RESUME/CV" width = "85" height = "85"/>
   </a>
   <a href ="">
-    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/website%20logo.png" title ="WEBSITE" alt = "WEBSITE" width = "80" height = "80"/> 
+    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/website%20logo.png" title ="WEBSITE" alt = "WEBSITE" width = "85" height = "85"/> 
   </a>
   <a href= "">
-    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/linkedin%20logo.png" title ="LINKEDIN" alt = "LINKEDIN" width = "80" height = "80"/>  
+    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/linkedin%20logo.png" title ="LINKEDIN" alt = "LINKEDIN" width = "85" height = "85"/>  
   </a>
   <a href ="">
-   <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/leetcode%20logo.png" title = "LEETCODE" alt ="LEETCODE" width ="80" height= "80"/>
+   <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/leetcode%20logo.png" title = "LEETCODE" alt ="LEETCODE" width ="85" height= "85"/>
   </a>
   
   
