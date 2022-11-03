@@ -38,9 +38,8 @@
 <div>
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "440" height="194"/>&nbsp;
   <a href="">
-    <img src="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/resume%20logo.png" title ="RESUME/CV" alt = "RESUME/CV" width = "60" height = "60"/><br/>
-    <img src="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/resume%20logo.png" title ="RESUME/CV" alt = "RESUME/CV" width = "60" height = "60"/><br/>
-  </a>
+    <img src="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/resume%20logo.png" title ="RESUME/CV" alt = "RESUME/CV" width = "80" height = "80"/><br/>
+ 
   
   <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats" width = "440" height="194"/>&nbsp; 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "370" height="200"/> 
