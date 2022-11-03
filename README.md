@@ -39,7 +39,7 @@
 
 
 <div>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "496" height="194"/>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "440" height="194"/>&nbsp;
   <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats" width = "440" height="194"/>&nbsp; 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "370" height="200"/> 
 </div>
