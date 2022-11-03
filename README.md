@@ -43,6 +43,10 @@
   <a href ="">
     <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/website%20logo.png" title ="WEBSITE" alt = "WEBSITE" width = "80" height = "80"/> 
   </a>
+  <a href= "">
+    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/linkedin%20logo.png" title ="LINKEDIN" alt = "LINKEDIN" width = "80" height = "80"/>  
+  </a>
+  
  
   <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats" width = "440" height="194"/>&nbsp; 
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "370" height="200"/> 
