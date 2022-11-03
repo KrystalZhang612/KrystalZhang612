@@ -44,7 +44,7 @@
 <br/>
 <div>
   <img src ="https://github-readme-stats.vercel.app/api?username=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title = "Krystal's github stats" alt ="Krystal's github stats" width = "496" height="194"/>&nbsp; 
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "320" height="194"/> 
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "330" height="194"/> 
 </div>
 
 
