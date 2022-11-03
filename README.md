@@ -5,6 +5,7 @@
 ### 🥤 Chai latte and anything with turmeric falvor is my favorite. 
 ### 💻 Coding, travelling, learning French, helping other people. 
 ### 💜 A very empathetic and compassionate person. 
+### 🛠️ I believe 80% of programming errors are out of Typos. 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krystal-zhang-242882242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
