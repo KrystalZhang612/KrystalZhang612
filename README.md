@@ -47,7 +47,7 @@
 </div>
 <br/>
 <div>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "496" height="194"/> 
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalZhang612&layout=compact&theme=vision-friendly-dark&background=000000)](https://github.com/KrystalZhang612" title ="Top Langs" alt ="Top Langs" width = "400" height="194"/> 
 </div>
 
 
