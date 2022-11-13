@@ -6,6 +6,7 @@
 ### 💻 Coding, travelling, learning French, helping other people. 
 ### 💜 A very empathetic and compassionate person. 
 ### 🛠️ I believe 80% of programming errors are out of Typos. 
+### 😞 Tools' frequent updates bother programmers the most. 
 <hr> 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krystal-zhang-242882242/">
