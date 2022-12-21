@@ -10,7 +10,7 @@
 <div id="badges">
   <a href="https://krystalzhang.net/">
     <img src="https://img.shields.io/badge/Portfolio-lightgreen?style=for-the-badge&logo=portfolio&logoColor=white" alt="Website Badge"/>
-  </a> &nhsp; &nbsp; 
+  </a> 
   <a href="https://www.linkedin.com/in/krystalzhang612/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-
+<div></div> 
 <div>
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "440" height="194"/>&nbsp; 
   <a href ="https://krystalzhang.net/">
