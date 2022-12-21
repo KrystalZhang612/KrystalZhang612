@@ -43,6 +43,17 @@
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" width="50" height="50"/> &nbsp; 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title ="Swift5" width="50" height="50"/> &nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title ="React.JS/React Native" width="50" height="50"/> &nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title ="TypeScript" width="50" height="50"/> &nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title ="Redux.JS" width="50" height="50"/> &nbsp;
+  <img src =  "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title ="Android Development" width="50" height="50"/> &nbsp;
+
+  
+  
+  
+  
+  
+  
   
 
 </div>
