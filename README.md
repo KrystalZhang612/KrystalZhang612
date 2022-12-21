@@ -47,6 +47,11 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title ="TypeScript" width="50" height="50"/> &nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title ="Redux.JS" width="50" height="50"/> &nbsp;
   <img src =  "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title ="Android Development" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title ="Google Console Cloud GCP" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title ="TailwindCSS" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title ="MongoDB" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title ="ESLint" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title ="Dart" width="50" height="50"/> &nbsp;
 
   
   
