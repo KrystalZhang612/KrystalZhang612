@@ -9,13 +9,13 @@
 ### 😞 Tools' frequent updates bother programmers the most. 
 <hr> 
 <div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/Website-deeppink?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+  <a href="https://krystalzhang.net/">
+    <img src="https://img.shields.io/badge/Portfolio-lightgreen?style=for-the-badge&logo=portfolio&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/krystal-zhang-242882242/">
+  <a href="https://www.linkedin.com/in/krystalzhang612/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://stackoverflow.com/users/19363899/krystal-zhang">
     <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
 </div>
