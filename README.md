@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/19363899/krystal-zhang">
-    <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
 </div>
 <br/>
