@@ -10,7 +10,7 @@
 <div id="badges">
   <a href="https://krystalzhang.net/">
     <img src="https://img.shields.io/badge/Portfolio-lightgreen?style=for-the-badge&logo=portfolio&logoColor=white" alt="Website Badge"/>
-  </a>
+  </a> &nhsp; &nbsp; 
   <a href="https://www.linkedin.com/in/krystalzhang612/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
