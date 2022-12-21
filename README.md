@@ -12,20 +12,11 @@
   <a href="">
     <img src="https://img.shields.io/badge/Website-deeppink?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/krystal-zhang-242882242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/AppleDeveloper-grey?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Developer Badge"/>
   </a>
 </div>
 <br/>
