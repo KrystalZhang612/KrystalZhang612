@@ -55,13 +55,21 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title ="Xcode" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title ="node.JS" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title ="Flutter" width="50" height="50"/> &nbsp;
-
-  
-  
-  
-  
-  
-  
-  
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title ="Yarn" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title ="UBUNTU" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title ="next.JS" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title ="C++  " width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title ="mySQL" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Vscode"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title = "CSS3"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title = "HTML5"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title = "Linux"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title = "Django"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  title = "Anaconda"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title = "Rust"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title = "Java"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title = "Haskell"  width="50" height="50"/> &nbsp;
 
 </div>
