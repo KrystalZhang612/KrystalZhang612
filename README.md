@@ -52,6 +52,9 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title ="MongoDB" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title ="ESLint" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title ="Dart" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title ="Xcode" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title ="node.JS" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title ="Flutter" width="50" height="50"/> &nbsp;
 
   
   
