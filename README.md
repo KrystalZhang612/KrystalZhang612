@@ -41,7 +41,7 @@
 
 ## 🛠️ SkillSet
 <div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" width="30" height="30"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" width="50" height="50"/>
   
 
 </div>
