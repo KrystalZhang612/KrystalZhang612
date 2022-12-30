@@ -1,7 +1,6 @@
 # ☕ Hey! This is Krystal Zhang. I am a Software Developer. 
 ## About Me:
 ### ☮️ Meditation is life. 
-### 🎥 I love watching horror films and Marvel superhero movies. 
 ### 🥤 Chai latte and anything with turmeric falvor is my favorite. 
 ### 💻 Coding, travelling, learning French, helping other people. 
 ### 💜 A very empathetic and compassionate person. 
