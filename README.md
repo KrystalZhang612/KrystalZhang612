@@ -76,4 +76,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title = "Heroku"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title = "Vim"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title = "Jira"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title = "BitBucket"  width="50" height="50"/> &nbsp;
 </div>
