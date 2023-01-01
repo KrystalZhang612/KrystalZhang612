@@ -59,5 +59,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title = "Kotlin"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title = "Scala"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title = "AWS"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title = "Spring Framework"  width="50" height="50"/> &nbsp;
 
 </div>
