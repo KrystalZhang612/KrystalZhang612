@@ -57,5 +57,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title = "Haskell"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title = "MS Azure"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title = "Kotlin"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title = "Scala"  width="50" height="50"/> &nbsp;
 
 </div>
