@@ -70,4 +70,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title = "jQuery"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title = "PHP"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title = "R"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title = "Babel"  width="50" height="50"/> &nbsp;
 </div>
