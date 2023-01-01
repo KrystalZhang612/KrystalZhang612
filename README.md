@@ -62,4 +62,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title = "Spring Framework"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "C#"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title = ".NET"  width="50" height="50"/> &nbsp;
 </div>
