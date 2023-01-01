@@ -1,7 +1,7 @@
 # ☕ Hey! This is Krystal Zhang. I am a Software Developer. 
 ## About Me:
-### 💻 Coding, travelling, learning French, helping other people. 
 ### 🛠️ I believe 80% of programming errors are out of Typos. 
+### 💻 Building software from scratch to solve real-world problems. 
 <hr> 
 <br/>
 <div id = "badges">
