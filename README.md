@@ -65,4 +65,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title = ".NET"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title = "AngularJS"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title = "MATLAB"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title = "Objective-C"  width="50" height="50"/> &nbsp;
 </div>
