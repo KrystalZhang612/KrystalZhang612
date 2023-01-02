@@ -41,7 +41,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title ="Flutter" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title ="Yarn" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title ="UBUNTU" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title ="next.JS" width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg"  title ="Clojure" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title ="C++  " width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title ="mySQL" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python"  width="50" height="50"/> &nbsp;
