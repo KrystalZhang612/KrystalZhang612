@@ -9,17 +9,6 @@
   </a>
 </div>
 
-<div></div> 
-<div>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=KrystalZhang612&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats" title ="Github Streak" alt = "Github Streak" width = "440" height="194"/>&nbsp; 
-  <a href ="https://krystalzhang.net/">
-    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/website%20logo.png" title ="WEBSITE" alt = "WEBSITE" width = "85" height = "85"/> 
-  </a>&nbsp; 
-  <a href= "https://www.linkedin.com/in/krystalzhang612/">
-    <img src ="https://github.com/KrystalZhang612/KrystalZhang612/blob/main/linkedin%20logo.png" title ="LINKEDIN" alt = "LINKEDIN" width = "85" height = "85"/>  
-  </a>&nbsp; 
-</div>
-
 
 ## 🛠️ SkillSet
 <div>
