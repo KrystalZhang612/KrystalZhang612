@@ -1,6 +1,6 @@
 # ☕ Hey! This is Krystal Zhang. I am a Software Developer. 
 ## About Me:
-### 💻 Building software from scratch to solve real-world problems. 
+### 💻 Building software from scratch & solving real-world problems. 
 <hr> 
 <br/>
 <div id = "badges">
