@@ -36,6 +36,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title = "HTML5"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title = "Linux"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title = "Django"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue.js"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  title = "Anaconda"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title = "Java"  width="50" height="50"/> &nbsp;
