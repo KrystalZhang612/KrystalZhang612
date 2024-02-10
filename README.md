@@ -19,7 +19,6 @@
   <img src ="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title ="Redux.JS" width="50" height="50"/> &nbsp;
   <img src =  "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title ="Android Development" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title ="Google Console Cloud GCP" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title ="TailwindCSS" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title ="MongoDB" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title ="ESLint" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title ="Dart" width="50" height="50"/> &nbsp;
@@ -38,7 +37,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title = "Linux"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title = "Django"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  title = "Anaconda"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title = "Rust"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title = "Java"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title = "Haskell"  width="50" height="50"/> &nbsp;
