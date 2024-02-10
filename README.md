@@ -63,4 +63,5 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title = "Jira"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title = "Elixir" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title = "BitBucket"  width="50" height="50"/> &nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title = "Kubernetes"  width="50" height="50"/> &nbsp;
 </div>
