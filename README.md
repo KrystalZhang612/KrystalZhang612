@@ -43,7 +43,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title = "MS Azure"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title = "Kotlin"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title = "Scala"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title = "AWS"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title = "Spring Framework"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title = "C#"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git"  width="50" height="50"/> &nbsp;
