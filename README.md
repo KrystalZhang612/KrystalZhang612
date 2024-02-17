@@ -2,6 +2,14 @@
 ## About Me:
 ### 💻 Building software from scratch & solving real-world problems. 
 <hr> 
+#### Badges & Achievements Goal:
+<div>
+  <img src = "https://camo.githubusercontent.com/f47c96383a4e6f1bc669a38c343ee580102130822d8087559229cebf0892efa0/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7374617273747275636b2d676f6c642e706e67" title ="JavaScript" width="50" height="50"/> &nbsp; 
+
+</div>
+
+
+
 <br/>
 <div id = "badges">
   <a>
